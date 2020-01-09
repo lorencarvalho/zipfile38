@@ -13,4 +13,6 @@ usage:
     else:
         import zipfile38 as zipfile
 
+---
 
+shout out to `Thomas Kluyver's backport for 3.6 <https://gitlab.com/takluyver/zipfile36>`_ and `Markus Scheidgen's backport for 3.7 <https://github.com/markus1978/zipfile37>`_.

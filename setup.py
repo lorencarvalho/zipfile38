@@ -5,7 +5,7 @@ with open("README.rst", "r") as f:
 
 setup(
     name='zipfile38',
-    version='0.0.2',
+    version='0.0.3',
     description='Read and write ZIP files - backport of the zipfile module from Python 3.8',
     long_description = readme,
     author='Loren Carvalho',
